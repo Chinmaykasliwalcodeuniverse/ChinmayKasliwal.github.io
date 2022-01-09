@@ -39,8 +39,8 @@ To run this project, you will need to add the following environment variables to
 ## 🚀 About Me
 I'm a full stack developer...
 
-
-
+## Screenshot
+![Captureweb](https://user-images.githubusercontent.com/96693041/148672177-f2177e7a-c7da-4491-9896-079567fe2ebc.JPG)
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_Website-000?style=for-the-badge&logo=ko-fi&logoColor=white)]( https://chinmaykasliwalcodeuniverse.github.io/ChinmayKasliwal.github.io/)
